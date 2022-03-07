@@ -1,0 +1,4 @@
+TDD - Test Driven Development - Começar escrevendo o teste e o teste vai guiando no desenvolvimento
+
+Testes -> Implementação -> Refatoração(Melhorar um código existente) -> Recomeça
+
